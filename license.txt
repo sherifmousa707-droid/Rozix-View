@@ -1,0 +1,8 @@
+Copyright (c) 2026 Rozix Systems
+
+All Rights Reserved.
+
+This software is provided for personal and commercial use.
+You may not modify, reverse engineer, redistribute, resell, or claim ownership of this software without written permission from Rozix Systems.
+
+Rozix View is a product of Rozix Systems.
