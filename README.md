@@ -37,4 +37,4 @@ Rozix AI AdBlock uses a locally deployed ONNX machine learning model to detect a
 
 Developed by **Rozix Systems**
 
-GitHub: https://github.com/sherifmousa707-droid
+Facebook: https//:www.facebook.com/RozixSystems
